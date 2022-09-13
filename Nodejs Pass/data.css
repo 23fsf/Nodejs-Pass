@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(80, 64, 97);
+    color: aliceblue;
+}
+
+button{
+    background-color: rgb(67, 131, 2);
+    color: aliceblue;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    margin-left: 50px;
+}
+button:hover{
+    background-color: blue;
+    color: chartreuse;
+}
